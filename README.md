@@ -3,3 +3,4 @@ Low-level microcontroller code for position control of brushed DC-motor. Code is
 Brushed DC motor controlled: Maxon RE-32
 Motor driver: High Current Motor Driver H-Bridge Module BTS7960 43A for Arduino
 Use a logic shifter from Nucleo board to BTS7960 module.
+Code was written to actuate a 1DOF active ankle prosthetic
